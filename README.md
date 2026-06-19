@@ -1,26 +1,29 @@
 # Personal Portfolio Website
 
-## Overview
+## About The Project
 
-This project is a responsive personal portfolio website developed as part of the Future Interns Full Stack Web Development Internship.
+This is my personal portfolio website built during the Future Interns Full Stack Web Development Internship.
 
-The website showcases my profile, technical skills, internship experience, projects, educational background, and current learning journey in software development.
+The purpose of this website is to showcase my skills, projects, education, internship experience, and learning journey as a Computer Science Engineering student. It serves as a digital portfolio where visitors can learn more about my background, technical interests, and the projects I have worked on.
+
+The website is fully responsive and designed with a modern dark theme, smooth animations, and an easy-to-navigate layout.
 
 ---
 
 ## Features
 
-- Responsive design for desktop, tablet, and mobile devices
-- Professional hero section with typing animation
-- About Me and Education sections
-- Internship Experience section
-- Technical Skills showcase
-- Featured Projects section
-- Currently Learning section
-- Contact section with GitHub, LinkedIn, and Email links
+- Responsive design for different screen sizes
+- Typing animation in the hero section
+- About Me section
+- Education details
+- Internship experience showcase
+- Technical skills section
+- Project portfolio section
+- Current learning section
+- Contact information and social links
 - Smooth scrolling navigation
 - Scroll reveal animations
-- Modern Dark Slate and Orange UI theme
+- Back to top button
 
 ---
 
@@ -40,64 +43,89 @@ The website showcases my profile, technical skills, internship experience, proje
 
 ---
 
-## Sections Included
+## Website Sections
 
-- Home
-- About
-- Experience
-- Skills
-- Projects
-- Currently Learning
-- Contact
+### Home
+
+A brief introduction about me along with my career goals and interests.
+
+### About
+
+Information about my background, education, and areas of interest in software development.
+
+### Experience
+
+Details about my Full Stack Web Development Internship at Future Interns.
+
+### Skills
+
+Highlights my programming languages, development tools, and technical knowledge.
+
+### Projects
+
+Showcases some of the projects I have built during my learning journey.
+
+### Learning
+
+Displays the technologies and concepts I am currently exploring.
+
+### Contact
+
+Provides ways to connect with me through email, GitHub, and LinkedIn.
 
 ---
 
-## Projects Highlighted
+## Projects Included
 
 ### MediCare+
 
-Healthcare management web application with:
+A healthcare web application that helps users manage their daily health activities through medicine reminders, hydration tracking, and BMI analysis.
 
-- Medicine reminders
-- Hydration tracking
-- BMI analysis
-
-**Technologies:** Python, Flask, SQLite, HTML, CSS, JavaScript
-
-### Student Result Management System
-
-Python-based application for managing student academic records.
-
-**Technologies:** Python, File Handling
+**Technologies Used:** Python, Flask, SQLite, HTML, CSS, JavaScript
 
 ### Portfolio Website
 
-Personal portfolio website showcasing skills, projects, and professional profile.
+A personal portfolio website created to showcase my skills, projects, internship experience, and educational background.
 
-**Technologies:** HTML, CSS, JavaScript
+**Technologies Used:** HTML, CSS, JavaScript
+
+### Mini CRM System
+
+A simple customer relationship management system featuring CRUD operations, search functionality, dashboard analytics, and data management features.
+
+**Technologies Used:** Python, Flask, SQLite
+
+### Power Fitness Club
+
+A responsive fitness website designed for a gym business with membership plans, trainer information, and fitness programs.
+
+**Technologies Used:** HTML, CSS, JavaScript
 
 ---
 
-## Current Learning
+## Currently Learning
 
 - Advanced Python
 - Data Structures and Algorithms
+- Software Engineering Concepts
+- Modern Web Application Development
 - DevOps Fundamentals
-- Machine Learning
 
 ---
 
-## Internship Information
-
-**Program:** Full Stack Web Development Internship
+## Internship
 
 **Organization:** Future Interns
+
+**Role:** Full Stack Web Development Intern
+
+During the internship, I worked on frontend development concepts, responsive web design, Git and GitHub workflows, and project-based learning.
 
 ---
 
 ## Author
 
-** SHAGUN MANGAL **
+**Shagun Mangal**
 
 B.Tech Computer Science Engineering
 
@@ -113,4 +141,4 @@ Email: [shagunm.2049@gmail.com](mailto:shagunm.2049@gmail.com)
 
 ## License
 
-This project is developed for educational and internship purposes.
+This project was created for educational and internship learning purposes.
