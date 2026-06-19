@@ -97,17 +97,17 @@ Personal portfolio website showcasing skills, projects, and professional profile
 
 ## Author
 
-**KILLI VENKATA SAI RAHUL**
+** SHAGUN MANGAL **
 
 B.Tech Computer Science Engineering
 
 GITAM University
 
-GitHub: https://github.com/SaiRahul-08
+GitHub: https://github.com/shagunm25
 
-LinkedIn: https://www.linkedin.com/in/killivenkatasairahul/
+LinkedIn: https://www.linkedin.com/in/shagun-mangal/
 
-Email: [raahulsaikilli@gmail.com](mailto:raahulsaikilli@gmail.com)
+Email: [shagunm.2049@gmail.com](mailto:shagunm.2049@gmail.com)
 
 ---
 
