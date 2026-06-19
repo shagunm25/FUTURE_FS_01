@@ -3,10 +3,11 @@
 const typing = document.getElementById("typing");
 
 const roles = [
-    "Full Stack Developer",
-    "DevOps Learner",
-    "Machine Learning Enthusiast",
-    "Future Software Engineer"
+    "Software Engineering Enthusiast",
+    "DSA Learner",
+    "OOP Explorer",
+    "Advanced Python Learner",
+    "Web Application Developer"
 ];
 
 let roleIndex = 0;
@@ -93,20 +94,38 @@ document
 
 // Navbar Background On Scroll
 
-const navbar =
-    document.querySelector(".navbar");
-
 window.addEventListener("scroll", () => {
 
-    if (window.scrollY > 50) {
+    let current = "";
 
-        navbar.classList.add("scrolled");
+    sections.forEach(section => {
 
-    } else {
+        const sectionTop =
+            section.offsetTop - 120;
 
-        navbar.classList.remove("scrolled");
+        const sectionHeight =
+            section.offsetHeight;
 
-    }
+        if (
+            window.pageYOffset >= sectionTop
+        ) {
+            current = section.id;
+        }
+
+    });
+
+    navItems.forEach(link => {
+
+        link.classList.remove("active");
+
+        if (
+            link.getAttribute("href") ===
+            `#${current}`
+        ) {
+            link.classList.add("active");
+        }
+
+    });
 
 });
 

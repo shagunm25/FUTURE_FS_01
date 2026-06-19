@@ -40,27 +40,6 @@ The website showcases my profile, technical skills, internship experience, proje
 
 ---
 
-## Project Structure
-
-```text
-Portfolio-Website
-│
-├── index.html
-│
-├── css
-│   └── style.css
-│
-├── js
-│   └── script.js
-│
-├── images
-│   └── profile.jpg
-│
-└── README.md
-```
-
----
-
 ## Sections Included
 
 - Home
